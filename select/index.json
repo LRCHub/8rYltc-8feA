@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "BREAK DOWN",
+  "base_artist": "$atori Zoom",
+  "createdAt": "2025-12-25T13:36:33.106305Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Break up Break Down",
+      "artist": "Krissy Feniak",
+      "has_synced": true,
+      "path": "select/01_Break_up_Break_Down_Krissy_Feniak.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Break Down And Let It All Out",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/02_Break_Down_And_Let_It_All_Out_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "God Break Down the Door",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/03_God_Break_Down_the_Door_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's Time To Break Down",
+      "artist": "The Supremes",
+      "has_synced": false,
+      "path": "select/04_It's_Time_To_Break_Down_The_Supremes.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Break Down The Wall - Acoustic Version For Veronica FM",
+      "artist": "Anouk",
+      "has_synced": true,
+      "path": "select/05_Break_Down_The_Wall_-_Acoustic_Version_For_Veronica_FM_Anouk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Break Down The Wall - Original Version",
+      "artist": "Anouk",
+      "has_synced": true,
+      "path": "select/06_Break_Down_The_Wall_-_Original_Version_Anouk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Break Down the Walls",
+      "artist": "Bonfire",
+      "has_synced": true,
+      "path": "select/07_Break_Down_the_Walls_Bonfire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Break Down the Walls",
+      "artist": "Crematory",
+      "has_synced": true,
+      "path": "select/08_Break_Down_the_Walls_Crematory.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Break Down",
+      "artist": "People Under the Stairs",
+      "has_synced": true,
+      "path": "select/09_The_Break_Down_People_Under_the_Stairs.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Break Down The Walls",
+      "artist": "Exciter",
+      "has_synced": true,
+      "path": "select/10_Break_Down_The_Walls_Exciter.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Break Down and Cry",
+      "artist": "Amaranthe",
+      "has_synced": true,
+      "path": "select/11_Break_Down_and_Cry_Amaranthe.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Break Down the Wall",
+      "artist": "Kingdom Come",
+      "has_synced": true,
+      "path": "select/12_Break_Down_the_Wall_Kingdom_Come.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Break Down",
+      "artist": "Lee Aaron",
+      "has_synced": false,
+      "path": "select/13_Break_Down_Lee_Aaron.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Grip & Break down !! (feat. Nana Takahashi)",
+      "artist": "SOUND HOLIC feat. Nana Takahashi",
+      "has_synced": true,
+      "path": "select/14_Grip_&_Break_down_!!_(feat._Nana_Takahashi)_SOUND_HOLIC_feat._Nana_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Grip & Break down !!",
+      "artist": "Nana Takahashi",
+      "has_synced": true,
+      "path": "select/15_Grip_&_Break_down_!!_Nana_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Break Down The Wall - Acoustic Version",
+      "artist": "Anouk",
+      "has_synced": true,
+      "path": "select/16_Break_Down_The_Wall_-_Acoustic_Version_Anouk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Break Down the Door",
+      "artist": "Barry Manilow",
+      "has_synced": false,
+      "path": "select/17_Break_Down_the_Door_Barry_Manilow.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Break Down",
+      "artist": "Dakota Star",
+      "has_synced": true,
+      "path": "select/18_Break_Down_Dakota_Star.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BREAK DOWN",
+      "artist": "$atori Zoom",
+      "has_synced": false,
+      "path": "select/pl_01_BREAK_DOWN_$atori_Zoom.txt"
+    }
+  ]
+}
